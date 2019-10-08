@@ -4,7 +4,7 @@ Este programa foi criado com o início de Programação Orientada a Objetos em J
 
 Com este programa é possível criar uma conta fictícia em um banco com número e nome do dono da conta. Além disso é possível fechar a conta, depositar, sacar e pagar mensalidade.
 
-Como fazer o programa funcionar:(br/)
+Como fazer o programa funcionar:/br
 
 1 - Baixe todo o programa "ContaBanco";(br/)
 2 - Abra na sua IDE de sua preferência;(br/)
